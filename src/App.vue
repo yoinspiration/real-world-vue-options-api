@@ -52,4 +52,8 @@ nav a.router-link-exact-active,
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+body {
+  padding-bottom: 50px;
+}
 </style>

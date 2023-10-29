@@ -3,7 +3,7 @@
 import EventCard from '@/components/EventCard.vue'
 import EventService from '@/services/EventService.js'
 
-const perPage = 2
+const perPage = 10
 
 export default {
   name: 'EventList',
